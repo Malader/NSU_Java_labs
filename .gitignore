@@ -1,5 +1,6 @@
 # Default ignored files
 /build/
+.gitignore
 /cmake-build-debug/
 /cmake-build-release/
 .idea
